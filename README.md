@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **Winet Infratel Private Limited**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Android,IOS**
+- 💬 Ask me about **AI,Android,IOS**
 
 - 📫 How to reach me **himanshujjp7@gmail.com**
 
