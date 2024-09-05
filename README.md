@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshujjp&label=Profile%20views&color=0e75b6&style=flat" alt="himanshujjp" /> </p>
 
-- 🔭 I’m currently working on **Winet Infratel Private Limited**
+- 🔭 I’m currently working on **EV Project**
 
-- 💬 Ask me about **AI,Android,IOS**
+- 💬 Ask me about **AI,FLUTTER AND ASTERISK**
 
 - 📫 How to reach me **himanshujjp7@gmail.com**
 
