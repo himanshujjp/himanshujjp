@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **EV Project**
 
-- 💬 Ask me about **AI,FLUTTER AND ASTERISK**
+- 💬 Ask me about **AI,FLUTTER,PYTHON AND ASTERISK**
 
 - 📫 How to reach me **himanshujjp7@gmail.com**
 
