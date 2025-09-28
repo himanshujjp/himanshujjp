@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **himanshujjp7@gmail.com**
 
-- 🌐 Website: [MyCraftCode](https://mycraftcode.com/)
-
 
 
 <h3 align="left">Connect with me:</h3>
